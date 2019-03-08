@@ -1,0 +1,6 @@
+owner=361855205664489475
+prefix=7
+game=7assawi Music| 7help
+stayinchannel=true
+songinstatus=false
+token=NTUyODU1MTgxMTE3NzUxMjk2.D2Rh3A.LnIzYJwGgdqCK81zNAM1fL-vILQ
